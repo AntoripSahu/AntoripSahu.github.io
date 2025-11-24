@@ -81,6 +81,12 @@
     a {
       color: #111;
     }
+		/* Responsive single-column layout */
+		@media (max-width: 600px) {
+			.skills {
+				grid-template-columns: 1fr !important;
+			}
+		}
   </style>
 </head>
 
@@ -120,7 +126,7 @@
   <section>
     <h2>Where to Explore My Work</h2>
     <p>
-      This is my minimal one-page static profile. For projects, case studies, demos, and deeper work — visit my full, dynamically updated portfolio.
+      This is my minimal one-page static profile. For projects, case studies, demos, and deeper work - visit my full, dynamically updated portfolio.
     </p>
     <p style="text-align:center;">
       <a class="button" href="https://antoripsahu.netlify.app" target="_blank">Go to Full Portfolio</a>
