@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is a simple one-page website that provides link to my portfolio at https://antoripsahu.netlify.app/
 
 <!--
 **AntoripSahu/AntoripSahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
